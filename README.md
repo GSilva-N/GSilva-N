@@ -2,6 +2,7 @@
 Eu sou o Guilherme Silva!
 - Licenciado em Química pela UFRPE
 - Desenvolvedor Web Java Jr pela Generation Brasil
+- Certificado AWS Cloud Practitioner
 
 ### Tecnologias 
 <img src="https://img.shields.io/badge/C%23-777BB4.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/dotnet%20-5C2D91.svg?&style=for-the-badge&logo=dotnet&logoColor=%2F7DF1E" />
